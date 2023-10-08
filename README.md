@@ -3,6 +3,7 @@ This is the second project within IT School's web development course.
 
 # website
 The project is deployed on Netlify. See the link below:
+https://weather-app-it-school.netlify.app/
 
 # main functionalities
 *Current weather data using API; 
